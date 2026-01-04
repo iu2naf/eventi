@@ -1,0 +1,1 @@
+Qua vengono memorizzati tutti gli eventi esportati in PDF

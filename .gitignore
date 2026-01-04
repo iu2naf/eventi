@@ -6,7 +6,7 @@ logs/*
 Eventi.txt
 
 # Ignore uploaded files if you don't want them in repository
-uploads/*
+#uploads/*
 
 # Ignore OS generated files
 .DS_Store
